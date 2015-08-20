@@ -15,9 +15,12 @@
         [-] edu
             [+] harvard
             [+] stanford
+            [+] east china normal university
         [-] uk
             [-] ac
                 [+] strath
+        [-] cn
+            [+] ecnu
 ```
 
 ##### Adding a School
